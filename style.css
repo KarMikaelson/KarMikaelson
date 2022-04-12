@@ -1,0 +1,21 @@
+p{
+    font-style: italic; /*Comment for CSS*/ 
+    font-size: 70px;  
+    color: red
+}
+.Block1__text{
+    font-size: 80;
+    color: rgb(175, 116, 116);
+    border: 2px solid black;
+}
+.Block1__text:hover{
+    color: yellow;
+}
+.train__head{
+    font-style: italic;
+    color: pink;
+}
+.train__body{
+    font-family: 'Rubik Moonrocks', cursive;
+    color: blue;
+}
